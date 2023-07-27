@@ -75,7 +75,7 @@ export default function ProductSimple({user}) {
               $57
             </Text>
             <Text textDecoration={'line-through'} color={'gray.600'}>
-              $199
+              $198
             </Text>
           </Stack>
         </Stack>
